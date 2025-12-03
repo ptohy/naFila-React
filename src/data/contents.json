@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Clean Code",
+    "tipo": "Livro",
+    "categoria": "Back-end",
+    "descricao": "Boas práticas de código em projetos de médio e grande porte.",
+    "status": "Em progresso",
+    "progresso": 45,
+    "tags": ["boas práticas", "código limpo"],
+    "prioridade": "Alta",
+    "duracaoEstimada": "12h",
+    "formato": "Livro físico / eBook",
+    "url": "https://exemplo.com/clean-code"
+  },
+  {
+    "id": 2,
+    "titulo": "Introdução a React Hooks",
+    "tipo": "Vídeo",
+    "categoria": "Front-end",
+    "descricao": "Visão geral básica sobre useState, useEffect e Hooks modernos.",
+    "status": "Não iniciado",
+    "progresso": 0,
+    "tags": ["react", "hooks"],
+    "prioridade": "Média",
+    "duracaoEstimada": "45min",
+    "formato": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "id": 3,
+    "titulo": "Artigo: Otimizando Performance no Front-end",
+    "tipo": "Artigo",
+    "categoria": "Front-end",
+    "descricao": "Estratégias de otimização para aplicações SPA.",
+    "status": "Concluído",
+    "progresso": 100,
+    "tags": ["performance", "spa"],
+    "prioridade": "Baixa",
+    "duracaoEstimada": "20min",
+    "formato": "Artigo online",
+    "url": "https://exemplo.com/artigo-performance-frontend"
+  }
+]
